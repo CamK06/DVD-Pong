@@ -7,7 +7,8 @@ Install SFML with your respective package manager and run the following in the c
 mkdir build
 cd build
 cmake ..
-make```
+make
+```
 
 # Running
 Copy the res folder to the same directory as the executable, then run the executable: `./dvdpong`
