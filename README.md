@@ -8,3 +8,6 @@ mkdir build
 cd build
 cmake ..
 make```
+
+# Running
+Copy the res folder to the same directory as the executable, then run the executable: `./dvdpong`
