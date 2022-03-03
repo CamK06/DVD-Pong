@@ -3,7 +3,8 @@ This is just a terrible clone of pong I wrote in C++ with SFML because I was bor
 
 # Build
 Install SFML with your respective package manager and run the following in the cloned repo folder:
-`mkdir build`
-`cd build`
-`cmake ..`
-`make`
+```
+mkdir build
+cd build
+cmake ..
+make```
